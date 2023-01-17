@@ -1,1 +1,1 @@
-# grid-pages-StyledComponents-
+# grid-pages-styled-components
