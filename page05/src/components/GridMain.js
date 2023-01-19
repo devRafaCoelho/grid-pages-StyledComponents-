@@ -10,7 +10,7 @@ export const GridMain = styled.main`
     }
 
     @media screen and (max-width: 960px) {
-        grid-template-columns: 100%;
+        grid-template-columns: 1fr;
         grid-template-rows: 500px 400px 400px;
     }
 

@@ -28,8 +28,8 @@ export const AboutPanel = styled.div`
     }
 
     @media screen and (max-width: 680px) {
-        grid-template-columns: 1fr;
         grid-column: span 1;
+        grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr;
         border-bottom: 1px solid ${({ theme }) => theme.colors.borderColor};
     }
